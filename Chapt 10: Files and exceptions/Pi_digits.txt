@@ -1,0 +1,10 @@
+##Reading from a File
+#-Text files may hold various information. Reading from a file is particularly useful in data analysis applications
+
+##Reading an Entire File
+#-To start we need a file with a few lines of text in it.
+
+3.1415926535
+8979323846
+2643383279
+
